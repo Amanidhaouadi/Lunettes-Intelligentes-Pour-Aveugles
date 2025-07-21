@@ -16,7 +16,7 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - **Logiciel** : Edge Impulse pour l’entraînement du modèle, Arduino IDE pour le développement, Audacity pour le traitement audio, HxD pour la conversion hexadécimale.
   - **Modèle IA** : TinyML, optimisé pour la détection d’objets légère et efficace.
 
-image2.png
+[image2.png](https://github.com/Amanidhaouadi/Lunettes-Intelligentes-Pour-Aveugles/blob/main/images/image2.png)
   
 
 ## Réalisation 
