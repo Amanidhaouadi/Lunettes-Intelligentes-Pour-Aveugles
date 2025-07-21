@@ -16,13 +16,14 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - **Logiciel** : Edge Impulse pour l’entraînement du modèle, Arduino IDE pour le développement, Audacity pour le traitement audio, HxD pour la conversion hexadécimale.
   - **Modèle IA** : TinyML, optimisé pour la détection d’objets légère et efficace.
 
-[image2.png](https://github.com/Amanidhaouadi/Lunettes-Intelligentes-Pour-Aveugles/blob/main/images/image2.png)
-  
+<img width="580" height="272" alt="image2" src="https://github.com/user-attachments/assets/de13ffe4-78b6-4381-bd31-69d0c51ff072" />
+
+
 
 ## Réalisation 
 ### Etape 1 :  Formation du modele de detection d'objet avec Edge Impulse
 
-image.png
+<img width="397" height="267" alt="image" src="https://github.com/user-attachments/assets/0096e96c-ecf6-44a2-a02c-77b2d98fbc4c" />
 
 ---
 ### Etape 2 : Détection d'objet ( ESP32 CAM )
@@ -66,6 +67,10 @@ image.png
     * Résolution : 32 bits
   - Convertir le fichier audio en code hexadécimal avec HxD et l’intégrer dans le code Arduino.
 
+<img width="661" height="256" alt="image 12" src="https://github.com/user-attachments/assets/15e69f9d-5435-4fb3-be2b-cb41ba6b6af2" />
+
+
+
 **4. Test de la synthèse vocale**
   - Générer des signaux audio via GPIO 25 de l’ESP32 connecté à un haut-parleur.
   - Utiliser la fonction "audio()" déclenchée par des mots-clés reçus (par ex., "table") pour produire le son correspondant.
@@ -78,6 +83,7 @@ image.png
 
 
 
+<img width="261" height="184" alt="image1" src="https://github.com/user-attachments/assets/b3edc250-b319-4e9f-a9b7-7d10834344c6" />
 
 
 
