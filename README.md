@@ -1,10 +1,15 @@
 # Lunettes intelligentes pour aveugles
 
+
 ## Objectif
 L'objectif de ce projet de fin d'études est de concevoir et réaliser des lunettes intelligentes, 
 ainsi que de développer un circuit électronique composé de composants électroniques et d'outils 
 de pointe tels que TinyML. Ces technologies nous permettront de créer différentes fonctionnalités 
 dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
+
+
+<img width="261" height="184" alt="image1" src="https://github.com/user-attachments/assets/618e4208-8c27-48f4-a07d-70e66394c756" />
+
 
 ## Fonctionnalités principales
   - **Détection en temps réel** : Identification automatique d’objets autour de l’utilisateur grâce à une caméra et un modèle IA.
@@ -27,6 +32,7 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
 
 ---
 ### Etape 2 : Détection d'objet ( ESP32 CAM )
+
 **1. Mise en place de la bibliothèque Edge Impulse**
   - Importer le fichier ZIP de la bibliothèque via le menu "Sketch" dans l'IDE Arduino.
   - Charger l’exemple "static buffer" de la librairie Edge Impulse.
@@ -48,7 +54,7 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - Afficher les résultats via la communication série avec activation d’une LED lors de la détection.
 
 
-
+<img width="593" height="281" alt="Capture d'écran 2025-07-21 225521" src="https://github.com/user-attachments/assets/67b16b56-c274-4e39-87f5-eb43db85be3c" />
 
 
 ---
@@ -67,8 +73,8 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
     * Résolution : 32 bits
   - Convertir le fichier audio en code hexadécimal avec HxD et l’intégrer dans le code Arduino.
 
-<img width="661" height="256" alt="image 12" src="https://github.com/user-attachments/assets/15e69f9d-5435-4fb3-be2b-cb41ba6b6af2" />
 
+<img width="661" height="256" alt="image 12" src="https://github.com/user-attachments/assets/15e69f9d-5435-4fb3-be2b-cb41ba6b6af2" />
 
 
 **4. Test de la synthèse vocale**
@@ -76,15 +82,13 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - Utiliser la fonction "audio()" déclenchée par des mots-clés reçus (par ex., "table") pour produire le son correspondant.
 
 
+<img width="584" height="303" alt="Capture d'écran 2025-07-21 225602" src="https://github.com/user-attachments/assets/bdf0f2b4-96f6-4b4c-bd96-a261e0628990" />
 
 
 ---
 ### Etape 4 : Conception 3D
 
-
-
-<img width="261" height="184" alt="image1" src="https://github.com/user-attachments/assets/b3edc250-b319-4e9f-a9b7-7d10834344c6" />
-
+<img width="566" height="322" alt="Capture d'écran 2025-07-21 225641" src="https://github.com/user-attachments/assets/6cf0aaf4-8b55-4262-9a53-4ec3bf2412d3" />
 
 
 
