@@ -106,5 +106,5 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - la reconnaissance faciale pour améliorer encore davantage l'expérience de l'utilisateur.
 
 
-<img width="215" height="125" alt="Capture d'écran 2025-07-21 230528" src="https://github.com/user-attachments/assets/1b5f7d6c-7955-4b46-bc1a-e27860f5f571" />
+<img width="400" height="320" alt="Capture d'écran 2025-07-21 230528" src="https://github.com/user-attachments/assets/1b5f7d6c-7955-4b46-bc1a-e27860f5f571" />
 
