@@ -74,7 +74,7 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
   - Convertir le fichier audio en code hexadécimal avec HxD et l’intégrer dans le code Arduino.
 
 
-<img width="661" height="256" alt="image 12" src="https://github.com/user-attachments/assets/15e69f9d-5435-4fb3-be2b-cb41ba6b6af2" />
+<img width="661" height="300" alt="image 12" src="https://github.com/user-attachments/assets/15e69f9d-5435-4fb3-be2b-cb41ba6b6af2" />
 
 
 **4. Test de la synthèse vocale**
@@ -88,7 +88,7 @@ dans nos lunettes en utilisant Arduino, Edge Impulse, Audacity, etc.
 ---
 ### Etape 4 : Conception 3D
 
-<img width="566" height="322" alt="Capture d'écran 2025-07-21 225641" src="https://github.com/user-attachments/assets/6cf0aaf4-8b55-4262-9a53-4ec3bf2412d3" />
+<img width="566" height="330" alt="Capture d'écran 2025-07-21 225641" src="https://github.com/user-attachments/assets/6cf0aaf4-8b55-4262-9a53-4ec3bf2412d3" />
 
 
 
